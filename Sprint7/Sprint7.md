@@ -1,4 +1,4 @@
-<div align="center"><H1> Groupe 1 -  Sprint 5 </H1></div>
+<div align="center"><H1> Groupe 1 -  Sprint 7 </H1></div>
 
 _Sprint de deux semaines_
 
