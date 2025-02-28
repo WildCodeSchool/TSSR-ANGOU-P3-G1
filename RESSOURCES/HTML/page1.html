@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenue sur mon site web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #CCD2D6;
+        }
+
+        header {
+            background-color: #334654;
+            color: #248FDE;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+	 nav {
+            display: table;
+            justify-content: center;
+            gap: 15px;
+            padding: 15px 0; /* Augmente la marge pour descendre le menu */
+            margin-top: 10px; /* Ajout pour descendre le menu */
+        }
+	nav a.active,
+        nav a:hover {
+            transform: scale(1.1);
+            background: rgba(0, 0, 0, 0.4);
+            color: white;
+}
+
+        nav a {
+            color: black;
+            text-decoration: none;
+            padding: 6px 12px;
+            border-radius: 50px;
+            background: rgba(0, 0, 0, 0.2);
+            transition: transform 0.15s ease-out, background 0.15s ease-out; /* Transition plus rapide */
+            font-size: 0.9em;
+        }
+    </style>
+
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur mon site web</h1>
+	  <nav>
+        <a href="index.html">Accueil</a>
+        <a href="services.html">Services</a>
+     </nav>
+
+    </header>
+
+    <main>
+        <section>
+            <h2>À propos de moi</h2>
+            <p>Bonjour à tous</p>
+        </section>
+
+        <section>
+            <h2>Etat des services</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui. Maecenas faucibus mollis interdum.</p>
+        </section>
+
+        <section>
+
+            <h2>Contactez-moi</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui. Maecenas faucibus mollis interdum.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 BastLAB </p>
+    </footer>
+</body>
+</html>
