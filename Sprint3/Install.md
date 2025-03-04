@@ -103,6 +103,8 @@ Après un ```gpupdate /force``` sur le ou les clients, la GPO devrait désormais
 
 1. **PowerShell**
 
+[Tuto IT-Connect](https://www.it-connect.fr/comment-bloquer-powershell-pour-les-utilisateurs/)
+
 Après avoir sélectionné la GPO, clic droit **Modifier**. Depuis l'**Editeur de gestion des stratégies de groupe**, sous le menu **Configuration utilisateur**, dérouler jusqu'aux **Stratégies de restriction logicielle** sous **Paramètres de sécurité** :  
 ![1_DEROULER_STRATEGIES](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Powershell/1_DEROULER_STRATEGIES.png)
 
@@ -120,6 +122,8 @@ Powershell ne se limite pas qu'à une version, plusieurs sont généralement pr�
 
 2. **CMD**
 
+[Tuto IT-Connect](https://www.it-connect.fr/chapitres/comment-creer-sa-premiere-gpo/)
+
 Après avoir sélectionné la GPO, clic droit **Modifier**. Depuis l'**Editeur de gestion des stratégies de groupe**, sous le menu **Configuration utilisateur**, dérouler jusqu'au **Système** sous **Modèles d'administration** :  
 ![1_DEROULER_SYSTEME](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/CMD/1_DEROULER_SYSTEME.png)
 
@@ -131,8 +135,7 @@ Dans le menu suivant, cocher **Activé** :
 
 #### 3 : Restriction des périphériques amovibles
 
-[Tuto IT-Connect]([Tuto IT-Connect](https://www.it-connect.fr/gpo-comment-activer-ecran-verrouillage-de-windows-en-cas-inactivite/)
-)
+[Tuto IT-Connect](https://www.it-connect.fr/comment-bloquer-les-cles-usb-par-gpo/)
 
 Après avoir sélectionné la GPO, clic droit **Modifier**.
 
