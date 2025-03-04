@@ -145,7 +145,15 @@ Après avoir sélectionné la GPO, clic droit **Modifier**.
 
 #### 6 : Blocage de l'accès du gestionnaire de tâche
 
-Après avoir sélectionné la GPO, clic droit **Modifier**.
+Après avoir sélectionné la GPO, clic droit **Modifier**. Ensuite, aller dans **Configuration utilisateur**, puis **Modèles d’administration** :  
+![]()
+
+Une fois arrivé dans **Modèle d'administration** il faut se rendre dans le répertoire **Système** puis **Options Ctrl + Alt + Suppr** :  
+![]()
+
+Double cliquer sur le paramètre **Supprimer le Gestionnaire des tâches**, en cochant sur **Activé** :  
+![]()
+
 
 ### Les GPO Standards
 
