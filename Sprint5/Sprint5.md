@@ -23,7 +23,7 @@ _**Milieu de Sprint 5**_
 <img src="https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT5/Milieu%20de%20Sprint%205.png" width="720" height="720">  
 
 _**Fin de Sprint 5**_  
-<img src="https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT5/FIN_SPRINT5.png" width="720" height="360">  
+<img src="https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT5/FIN_SPRINT5.png" width="660" height="360">  
 
 ## Difficultés rencontrées : problèmes techniques rencontrés
 
