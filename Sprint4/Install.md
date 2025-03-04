@@ -93,15 +93,9 @@ La première règle ne peux pas être modifier ou désactiver afin de toujours g
 
 ## 2) SECURITE - Gestion de la télémétrie sur les clients Windows 10/11
 
-1. **Utilisation de script(s) PowerShell**
+1. **Exécution par tâches AT**
 
-2. **Script(s) exécuté(s) depuis un serveur Windows ou directement sur les clients**
-
-3. **Exécution par tâches AT**
-
-## 2 bis) SECURITE - Gestion de la télémétrie sur un client Windows 10/11
-
-### Utilisation de GPO (Utilisateur/Ordinateur)
+2. **Utilisation de GPO (Utilisateur/Ordinateur)**
 
 ## 3) RESEAU - Amélioration de l'infrastructure Proxmox avec des routeurs
 
