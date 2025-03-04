@@ -4,10 +4,10 @@ _Sprint de une semaine_
 
 ## Membres du groupe de projet (rôles)
 
-**Axel** : Technicien  
-**Fred** : Scrum Master  
-**Bastien** : Product Owner  
-**Tristan** : Technicien  
+**Axel** : Product Owner  
+**Fred** : Technicien  
+**Bastien** : Technicien  
+**Tristan** : Srum Master  
 
 ## Choix techniques : quel OS, quelle version, etc.
 
@@ -18,12 +18,11 @@ _Sprint de une semaine_
 
 _**Début de Sprint 7**_  
 
-
-_**Milieu de Sprint 7**_  
-
+![]()
 
 _**Fin de Sprint 7**_  
 
+![]()
 
 ## Difficultés rencontrées : problèmes techniques rencontrés
 
