@@ -131,6 +131,9 @@ Dans le menu suivant, cocher **Activé** :
 
 #### 3 : Restriction des périphériques amovibles
 
+[Tuto IT-Connect]([Tuto IT-Connect](https://www.it-connect.fr/gpo-comment-activer-ecran-verrouillage-de-windows-en-cas-inactivite/)
+)
+
 Après avoir sélectionné la GPO, clic droit **Modifier**.
 
 Chemin vers le dossier :
@@ -154,6 +157,8 @@ Cocher l'option **Définir ce paramètre de stratégie**. Puis déterminer la du
 
 #### 5 : Verrouillage de compte (Après un nombre d'erreurs de mot de passe définie)
 
+[Tuto IT-Connect](https://www.it-connect.fr/tuto-active-directory-et-le-verrouillage-des-comptes/)
+
 La stratégie de verrouillage des comptes est définie dans la stratégie de groupe **Default Domain Policy**, clic droit **Modifier**.
 
 Trouer l'option **Seuil de verrouillage du compte** dans **Configuration ordinateur > Stratégies > Paramètres Windows > Paramètres de sécurité > Stratégies de compte > Stratégie de verrouillage de compte** :
@@ -163,6 +168,8 @@ Cocher **Définir ce paramètre de stratégie** et choisir la valeur souhaitéé
 ![chrome_vROCz6RVre.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Verrouillage%20de%20compte/chrome_vROCz6RVre.png)
 
 #### 6 : Blocage de l'accès du gestionnaire de tâche
+
+[Tuto](https://maximepiazzola.wordpress.com/iii-configuration-des-gpo/)
 
 Après avoir sélectionné la GPO, clic droit **Modifier**. Ensuite, aller dans **Configuration utilisateur**, puis **Modèles d’administration** :  
 ![chrome_DzzFkjIJdj.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/GESTIONNAIRE_TACHE/chrome_DzzFkjIJdj.png)
