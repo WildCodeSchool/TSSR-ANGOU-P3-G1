@@ -205,12 +205,12 @@ Ensuite placer le fichier GoogleChromeStandaloneEntreprise64.msi dans le dossier
 
 Après avoir sélectionné la GPO, clic droit **Modifier**.
 
-Aller dans **Configuration ordinateur > Stratégies > Paramètres du logiciel > Installation de logiciel > Clic Droit > Nouveau > Package...**.
+Aller dans **Configuration ordinateur > Stratégies > Paramètres du logiciel > Installation de logiciel > Clic Droit > Nouveau > Package...**.  
 ![chrome_46jCeiTyLa.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/D%C3%A9ploiement%20de%20logiciels/chrome_46jCeiTyLa.png)
 
 Sélectionner le paquet MSI GoogleChromeStandaloneEntreprise64 dans le dossier partagé.
 
-Sélectionner **Attribué** :
+Sélectionner **Attribué** :  
 ![chrome_fZm3ZeXjlz.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/D%C3%A9ploiement%20de%20logiciels/chrome_fZm3ZeXjlz.png)
 
 #### 5 : Gestion de l'alimentation
