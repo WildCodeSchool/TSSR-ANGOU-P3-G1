@@ -7,7 +7,7 @@ _Sprint de une semaine_
 **Axel** : Product Owner  
 **Fred** : Technicien  
 **Bastien** : Technicien  
-**Tristan** : Srum Master  
+**Tristan** : Scrum Master  
 
 ## Choix techniques : quel OS, quelle version, etc.
 
