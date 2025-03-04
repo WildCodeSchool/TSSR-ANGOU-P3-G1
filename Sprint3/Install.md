@@ -189,6 +189,14 @@ Double cliquer sur le paramètre **Supprimer le Gestionnaire des tâches**, en c
 
 Après avoir sélectionné la GPO, clic droit **Modifier**.
 
+Aller dans **Configuration utilisateur > Stratégies > Modèles d'administration ... > Bureau > Bureau**.
+![vmware_dIlIkbIz7z.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Fond%20d'%C3%A9cran/vmware_dIlIkbIz7z.png)
+
+Activer (avec Enabled) le paramètre Papier peint du Bureau en prenant le fichier <nom image>.jpg dans le dossier partagé du serveur.
+![vmware_FPKjGWLgbQ.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Fond%20d'%C3%A9cran/vmware_FPKjGWLgbQ.png)
+
+Laisse le **Style du papier peint**, valider par **Ok**, et sortir de la GPO
+
 #### 2 : Mappage de lecteur
 
 Après avoir sélectionné la GPO, clic droit **Modifier**.
