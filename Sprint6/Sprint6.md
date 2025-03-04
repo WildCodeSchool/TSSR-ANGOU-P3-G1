@@ -5,9 +5,9 @@ _Sprint de une semaine_
 ## Membres du groupe de projet (rôles)
 
 **Axel** : Technicien  
-**Fred** :   
+**Fred** : Technicien
 **Bastien** : Scrum Master  
-**Tristan** : Technicien  
+**Tristan** : Product Owner  
 
 ## Choix techniques : quel OS, quelle version, etc.
 
