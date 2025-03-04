@@ -87,7 +87,7 @@ Entrer le nom de l'utilisateur ou du groupe souhaité, puis cliquer sur **Vérif
 
 5. **Appliquer la GPO**
 
-Après un ```gpupdate /force``` sur le ou les clients, la GPO devrait désormais bloquer l'accès au panneau de configuration des utilisateurs cibles.
+Après un ```gpupdate /force``` sur le ou les clients, la GPO devrait désormais s'appliquer à la ou les machines concernées.
 
 #### 1 : Blocage complet du panneau de config
 
