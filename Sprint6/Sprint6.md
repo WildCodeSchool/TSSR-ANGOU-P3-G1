@@ -18,12 +18,11 @@ _Sprint de une semaine_
 
 _**Début de Sprint 6**_  
 
-
-_**Milieu de Sprint 6**_  
-
+![DEBUT_SPRINT6.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT6/DEBUT_SPRINT6.png)
 
 _**Fin de Sprint 6**_  
 
+![FIN_SPRINT6.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT6/FIN_SPRINT6.png)
 
 ## Difficultés rencontrées : problèmes techniques rencontrés
 
