@@ -135,6 +135,13 @@ Dans le menu suivant, cocher **Activé** :
 
 Après avoir sélectionné la GPO, clic droit **Modifier**.
 
+Chemin vers le dossier :
+**Configuration ordinateur > Stratégies > Modèles d'administration > Système > Accès au stockage amovible** : 
+![chrome_5jGWnR8S7m.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Restriction%20p%C3%A9riph%C3%A9riques%20amovibles/chrome_5jGWnR8S7m.png)
+
+Cliquer sur **Toutes les classes de stockage amovible : refuser tous les accès**, puis cocher **Activé** :
+![chrome_hYZU7scfcr.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Restriction%20p%C3%A9riph%C3%A9riques%20amovibles/chrome_hYZU7scfcr.png)
+
 #### 4 : Ecran de veille avec MDP en sortie
 
 Après avoir sélectionné la GPO, clic droit **Modifier**.
