@@ -142,7 +142,7 @@ Cliquer sur **Toutes les classes de stockage amovible : refuser tous les accès*
 
 #### 4 : Ecran de veille avec MDP en sortie
 
-(Tuto IT-Connect)[https://www.it-connect.fr/gpo-comment-activer-ecran-verrouillage-de-windows-en-cas-inactivite/]
+Tuto IT-Connect(https://www.it-connect.fr/gpo-comment-activer-ecran-verrouillage-de-windows-en-cas-inactivite/)
 
 Après avoir sélectionné la GPO, clic droit **Modifier**. 
 
