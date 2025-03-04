@@ -142,6 +142,18 @@ Cliquer sur **Toutes les classes de stockage amovible : refuser tous les accès*
 
 #### 4 : Ecran de veille avec MDP en sortie
 
+Tuto IT-Connect[https://www.it-connect.fr/gpo-comment-activer-ecran-verrouillage-de-windows-en-cas-inactivite/]
+
+Après avoir sélectionné la GPO, clic droit **Modifier**. 
+
+Trouver l'option **Ouverture de session interactive : limite d'inactivité de l'ordinateur** dans **Configuration ordinateur > Stratégies > Paramètres Windows > Paramètres de sécurité > Stratégies locales > Options de sécurité** :
+![chrome_136MyaJTHc.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Ecran%20de%20veille%20avec%20MDP%20en%20sortie/chrome_136MyaJTHc.png)
+
+Cocher l'option **Définir ce paramètre de stratégie**. Puis déterminer la durée d'inactivité en secondes souhaitée :
+![chrome_iNXG3yFiwW.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Ecran%20de%20veille%20avec%20MDP%20en%20sortie/chrome_iNXG3yFiwW.png)
+
+#### 5 : Verrouillage de compte (Après un nombre d'erreurs de mot de passe définie)
+
 La stratégie de verrouillage des comptes est définie dans la stratégie de groupe **Default Domain Policy**, clic droit **Modifier**.
 
 Trouer l'option **Seuil de verrouillage du compte** dans **Configuration ordinateur > Stratégies > Paramètres Windows > Paramètres de sécurité > Stratégies de compte > Stratégie de verrouillage de compte** :
@@ -149,10 +161,6 @@ Trouer l'option **Seuil de verrouillage du compte** dans **Configuration ordinat
 
 Cocher **Définir ce paramètre de stratégie** et choisir la valeur souhaitéé :
 ![chrome_vROCz6RVre.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Verrouillage%20de%20compte/chrome_vROCz6RVre.png)
-
-#### 5 : Verrouillage de compte (Après un nombre d'erreurs de mot de passe définie)
-
-Après avoir sélectionné la GPO, clic droit **Modifier**.
 
 #### 6 : Blocage de l'accès du gestionnaire de tâche
 
