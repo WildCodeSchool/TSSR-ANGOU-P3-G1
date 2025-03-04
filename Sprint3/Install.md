@@ -85,6 +85,10 @@ Entrer le nom de l'utilisateur ou du groupe souhaité, puis cliquer sur **Vérif
 ![7_CHECK_NAMES](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/7_CHECK_NAMES.png)
 
 
+5. **Appliquer la GPO**
+
+Après un ```gpupdate /force``` sur le ou les clients, la GPO devrait désormais bloquer l'accès au panneau de configuration des utilisateurs cibles.
+
 #### 1 : Blocage complet du panneau de config
 
 Après avoir sélectionné la GPO, clic droit **Modifier**. Dans l'**Editeur de gestion des stratégies de groupe**, sous le menu **Configuration utilisateur**, dérouler jusqu'au **Panneau de configuration** sous **Modèles d'administration** :  
@@ -95,9 +99,6 @@ Clic gauche sur **Panneau de configuration** et dans le menu de droite, choisir 
 
 Dans le menu suivant, cocher **Activé** :  
 ![3_COCHER_ACTIVE](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Panneau%20de%20conf/3_COCHER_ACTIVE.png)
-
-Après un ```gpupdate /force``` sur le ou les clients, la GPO devrait désormais bloquer l'accès au panneau de configuration des utilisateurs cibles.
-
 
 #### 2 : Sécurité PowerShell + CMD
 
