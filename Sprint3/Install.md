@@ -146,14 +146,13 @@ Après avoir sélectionné la GPO, clic droit **Modifier**.
 #### 6 : Blocage de l'accès du gestionnaire de tâche
 
 Après avoir sélectionné la GPO, clic droit **Modifier**. Ensuite, aller dans **Configuration utilisateur**, puis **Modèles d’administration** :  
-![]()
+![chrome_DzzFkjIJdj.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/GESTIONNAIRE_TACHE/chrome_DzzFkjIJdj.png)
 
 Une fois arrivé dans **Modèle d'administration** il faut se rendre dans le répertoire **Système** puis **Options Ctrl + Alt + Suppr** :  
-![]()
+![chrome_KcVKlR2gLN.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/GESTIONNAIRE_TACHE/chrome_KcVKlR2gLN.png)
 
 Double cliquer sur le paramètre **Supprimer le Gestionnaire des tâches**, en cochant sur **Activé** :  
-![]()
-
+![chrome_X0Nkb51pTg.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/GESTIONNAIRE_TACHE/chrome_X0Nkb51pTg.png)
 
 ### Les GPO Standards
 
