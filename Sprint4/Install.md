@@ -93,9 +93,15 @@ La première règle ne peux pas être modifier ou désactiver afin de toujours g
 
 ## 2) SECURITE - Gestion de la télémétrie sur les clients Windows 10/11
 
-1. **Exécution par tâches AT**
+**Utilisation de GPO (Utilisateur/Ordinateur)**
 
-2. **Utilisation de GPO (Utilisateur/Ordinateur)**
+![Télémétrie](https://i.imgur.com/TQZqTwi.png)
+
+![Télémétrie](https://i.imgur.com/xJCUtVG.png)
+
+![Télémétrie](https://i.imgur.com/NzSjsDo.png)
+
+![Télémétrie](https://i.imgur.com/97XX8lo.png)
 
 ## 3) RESEAU - Amélioration de l'infrastructure Proxmox avec des routeurs
 
