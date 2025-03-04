@@ -95,9 +95,13 @@ La première règle ne peux pas être modifier ou désactiver afin de toujours g
 
 **Utilisation de GPO (Utilisateur/Ordinateur)**
 
+Mise en place de la tache AT via la GPO Task Scheduler 
+
 ![Télémétrie](https://i.imgur.com/TQZqTwi.png)
 
 ![Télémétrie](https://i.imgur.com/xJCUtVG.png)
+
+Programmation de la Tache AT
 
 ![Télémétrie](https://i.imgur.com/NzSjsDo.png)
 
