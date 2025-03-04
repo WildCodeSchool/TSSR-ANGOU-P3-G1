@@ -129,8 +129,6 @@ Clic gauche sur **Système** et dans le menu de droite, choisir **Désactiver l'
 Dans le menu suivant, cocher **Activé** :  
 ![3_COCHER_ACTIVE](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/CMD/3_COCHER_ACTIVE.png)
 
-
-
 #### 3 : Restriction des périphériques amovibles
 
 Après avoir sélectionné la GPO, clic droit **Modifier**.
@@ -144,7 +142,13 @@ Cliquer sur **Toutes les classes de stockage amovible : refuser tous les accès*
 
 #### 4 : Ecran de veille avec MDP en sortie
 
-Après avoir sélectionné la GPO, clic droit **Modifier**.
+La stratégie de verrouillage des comptes est définie dans la stratégie de groupe **Default Domain Policy**, clic droit **Modifier**.
+
+Trouer l'option **Seuil de verrouillage du compte** dans **Configuration ordinateur > Stratégies > Paramètres Windows > Paramètres de sécurité > Stratégies de compte > Stratégie de verrouillage de compte** :
+![chrome_GCjbmRrqHX.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Verrouillage%20de%20compte/chrome_GCjbmRrqHX.png)
+
+Cocher **Définir ce paramètre de stratégie** et choisir la valeur souhaitéé :
+![chrome_vROCz6RVre.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/Verrouillage%20de%20compte/chrome_vROCz6RVre.png)
 
 #### 5 : Verrouillage de compte (Après un nombre d'erreurs de mot de passe définie)
 
