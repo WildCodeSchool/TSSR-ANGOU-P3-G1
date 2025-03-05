@@ -99,13 +99,25 @@ Mise en place de la tache AT via la GPO Task Scheduler
 
 ![Télémétrie](https://i.imgur.com/TQZqTwi.png)
 
+Entrer le nom de votre task 
+
 ![Télémétrie](https://i.imgur.com/xJCUtVG.png)
 
 Programmation de la Tache AT
 
 ![Télémétrie](https://i.imgur.com/NzSjsDo.png)
 
+Cliquer sur New 
+
 ![Télémétrie](https://i.imgur.com/97XX8lo.png)
+
+Mettre powershell dans la partie programme
+
+Rentrer la commande dans la partie :
+
+-NoProfile -NoLogo -NonInteractive -ExecutionPolicy Bypass -File \\path\to\script.ps1
+
+![](https://i.imgur.com/n2hVxn3.png)
 
 ## 3) RESEAU - Amélioration de l'infrastructure Proxmox avec des routeurs
 
