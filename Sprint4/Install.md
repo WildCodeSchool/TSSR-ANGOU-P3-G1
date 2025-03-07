@@ -95,23 +95,23 @@ La première règle ne peux pas être modifier ou désactiver afin de toujours g
 
 **Utilisation de GPO (Utilisateur/Ordinateur)**
 
-Mise en place de la tache AT via la GPO Task Scheduler 
+Mise en place de la tache AT via la GPO **Task Scheduler** 
 
 ![Télémétrie](https://i.imgur.com/TQZqTwi.png)
 
-Entrer le nom de votre task 
+Entrer le nom de la **task** 
 
 ![Télémétrie](https://i.imgur.com/xJCUtVG.png)
 
-Programmation de la Tache AT
+Programmation de la **Tache AT**
 
 ![Télémétrie](https://i.imgur.com/NzSjsDo.png)
 
-Cliquer sur New 
+Cliquer sur **New** 
 
 ![Télémétrie](https://i.imgur.com/97XX8lo.png)
 
-Mettre powershell dans la partie programme
+Mettre **powershell** dans la partie programme
 
 Rentrer la commande dans la partie :
 
