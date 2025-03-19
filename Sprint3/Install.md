@@ -200,7 +200,32 @@ Laisse le **Style du papier peint**, valider par **Ok**, et sortir de la GPO
 
 #### 2 : Mappage de lecteur
 
+Créer le partage réseau puis copier le lien réseau pour le copier dans la GPO
+
+![GPO MAP DISK](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/mapp1.png)
+
 Après avoir sélectionné la GPO, clic droit **Modifier**.
+
+Aller dans **Configuration utilisateur > Préférences > Paramètres Windows> Mappage de disque**.
+
+![GPO MAP DISK](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/mapp2.png)
+
+
+Clic droit sur le fond blanc de la fenêtre de droite, puis selection de **Nouveau** puis **Disque mappé**
+
+![GPO MAP DISK](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT3/GPO_INSTALL/mapp3.png)
+
+
+Renseigner les champs comme indiqué dans l'image ci-dessus, notamment le chemin réseau copié plus haut.
+
+Lors de l'ouverture d'une session par un utilisateur, le disque I: sera disponible et un dossier sera créé à son nom dans le repertoire Utilisateur
+
+
+
+
+
+
+
 
 #### 3 : Configuration des paramètres de langues
 
