@@ -18,11 +18,11 @@ _Sprint de une semaine_
 
 _**Début de Sprint 7**_  
 
-![DEBUT_SPRINT6.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/DEBUT_SPRINT7.png)
+![DEBUT_SPRINT7.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/DEBUT_SPRINT7.png)
 
 _**Fin de Sprint 7**_  
 
-![FIN_SPRINT6.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/FIN_SPRINT7.png)
+![FIN_SPRINT7.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/FIN_SPRINT7.png)
 
 ## Difficultés rencontrées : problèmes techniques rencontrés
 
