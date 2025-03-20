@@ -8,22 +8,23 @@ cd /tmp
 wget https://github.com/FreePBX/sng_freepbx_debian_install/raw/master/sng_freepbx_debian_install.sh  -O /tmp/sng_freepbx_debian_install.sh
 bash /tmp/sng_freepbx_debian_install.sh
 ```
-## Après l'installation  se connecter directement grâce à l'adresse donnée à la fin de l'installation (Normalement l'adresse du serveur)
+## Après l'installation  se connecter directement à l'interface d'administration de Freepbx grâce à l'adresse donnée à la fin de l'installation, ici 172.20.1.112 (l'adresse du serveur Debian mis dans la DMZ)
 
-![FREEPBX](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/images/SCREENS-PAR-SPRINT/SCREENS-SPRINT9/freepbx-1.png)
+![FREEPBX](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT9/freepbx-1.png)
 
 
 - **Créer le compte admin et définir son mot de passe**.
   
 - **Ensuite choisir ``FreePBX Administration``**.
 
+![FREEPBX](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT9/freepbx-2.png)
 ![FREEPBX](https://github.com/user-attachments/assets/c16de851-8c49-46f0-b910-37a84c7c3002)
 
-- **Se connecter avec le compte admin créer**.
+- **Se connecter avec le compte admin créé**.
 
 ![FREEPBX](https://github.com/user-attachments/assets/47bfbdf1-b493-4d1e-bf60-7594b52ec17c)
 
-- **Ajouter tous les utilisateurs du domaine grâce à un ``fichier .csv`` **.
+- **Ajouter tous les utilisateurs du domaine grâce à un ``fichier .csv`` formaté comme ci-dessous**.
 
 ![FREEPBX](https://github.com/user-attachments/assets/be1b778d-039e-4ae7-a5b2-670041e36543)
 
