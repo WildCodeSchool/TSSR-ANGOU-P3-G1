@@ -147,8 +147,15 @@ La nouvelle entrée apparait dans la liste. En cliquant l'adresse du site web, l
 
 ![PASSBOLT](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/passbolt4.png)
 
-Noté la petite clef au bout des champs Login et MDP. Ceci signifie la gestion par Passbolt
+Noté la petite clef au bout des champs Login et MDP. Ceci signifie la gestion par Passbolt.
 
+![PASSBOLT](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/passbolt5.png)
+
+En cliquant dessus, une fenêtre propose de remplir automatiquement les champs en saisissant auparavant la Passphrase définie lors de l'installation de Passbolt.
+
+![PASSBOLT](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/passbolt6.png)
+
+Et voilà, votre gestionnaire de mot de passe est fonctionnel
 
 
 ## 3) GESTION DE PROJET - Installation d'un suivi sur serveur local : REDMINE
