@@ -231,6 +231,14 @@ Lors de l'ouverture d'une session par un utilisateur, le disque I: sera disponib
 
 Après avoir sélectionné la GPO, clic droit **Modifier**.
 
+Configuration de l'ordinateur > Modèles d'administration > Panneau de configuration > Options régionales et linguistiques.
+
+![](https://i.imgur.com/0RPqdL3.png)
+
+Sélectionner "restreint la langue de l'interface utilisateur que Windows utilise pour les utilisateurs connectés" et cliqué sur enable
+
+![](https://i.imgur.com/u1fBgqx.png)
+
 #### 4 : Déploiement de logiciels (Chrome)
 
 La première chose à faire est de télécharger le fichier [msi google](https://chromeenterprise.google/download/).
@@ -250,6 +258,16 @@ Sélectionner **Attribué** :
 #### 5 : Gestion de l'alimentation
 
 Après avoir sélectionné la GPO, clic droit **Modifier**.
+
+Accédez à Configuration ordinateur > Stratégies > Modèles d'administration > Système > Gestion de l'alimentation :
+
+Séléctionné Paramètre d'économie d'énergie puis Sélectionner le seuil de batterie de l'économiseur d'énergie et a qu'elle pourcentage il ce déclenchera.
+
+![](https://i.imgur.com/UYY4TuQ.png)
+
+Sélectionner Paramètres de mise en veille > spécifiez le délai d'attente de mise en veille du système 
+
+![](https://i.imgur.com/WboDN3b.png)
 
 ## 3) GLPI
 ![GLPI](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/Sprint3/images/logo_glpi.png)
