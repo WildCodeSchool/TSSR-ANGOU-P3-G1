@@ -128,6 +128,8 @@ Choisissez un code couleur et un jeton à trois caractères pour prévenir les a
 Votre compte administrateur est prêt !
 Connectez-vous à l’interface de Passbolt pour commencer à l’utiliser.
 
+CREATION DE NOUVELLES ENTREES DANS PASSBOLT
+----------------------------------------------
 
 
 
