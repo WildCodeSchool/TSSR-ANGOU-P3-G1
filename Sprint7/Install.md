@@ -132,6 +132,23 @@ CREATION DE NOUVELLES ENTREES DANS PASSBOLT
 ----------------------------------------------
 
 
+Selectionner le bouton CREATE puis NEW PASSWORD
+
+![PASSBOLT](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/passbolt2.png)
+
+Renseigner les champs
+
+![PASSBOLT](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/passbolt3.png)
+
+La nouvelle entrée apparait dans la liste. En cliquant l'adresse du site web, le navigateur s'ouvre avec le login et le mot de passe prérempli
+
+![PASSBOLT](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/passbolt1.png)
+
+
+![PASSBOLT](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT7/passbolt4.png)
+
+Noté la petite clef au bout des champs Login et MDP. Ceci signifie la gestion par Passbolt
+
 
 
 ## 3) GESTION DE PROJET - Installation d'un suivi sur serveur local : REDMINE
