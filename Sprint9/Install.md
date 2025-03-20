@@ -10,7 +10,7 @@ bash /tmp/sng_freepbx_debian_install.sh
 ```
 ## Après l'installation  se connecter directement grâce à l'adresse donnée à la fin de l'installation (Normalement l'adresse du serveur)
 
-![FREEPBX](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/images/freepbx-1)
+![FREEPBX](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/images/SCREENS-PAR-SPRINT/SCREENS-SPRINT9/freepbx-1.png)
 
 
 - **Créer le compte admin et définir son mot de passe**.
