@@ -1,4 +1,4 @@
-# Téléphonie VOIIP avec FREEPBX
+# Téléphonie VOIP avec FREEPBX
 
 ## Installation de FREEPBX : 
 
@@ -9,6 +9,9 @@ wget https://github.com/FreePBX/sng_freepbx_debian_install/raw/master/sng_freepb
 bash /tmp/sng_freepbx_debian_install.sh
 ```
 ## Après l'installation  se connecter directement grâce à l'adresse donnée à la fin de l'installation (Normalement l'adresse du serveur)
+
+![FREEPBX](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/images/freepbx-1)
+
 
 - **Créer le compte admin et définir son mot de passe**.
   
