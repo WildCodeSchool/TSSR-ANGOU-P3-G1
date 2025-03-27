@@ -20,6 +20,7 @@ Les techniciens de BillU ont été informé d'une panne et ont fait preuve de r�
 
 La phase de test s'est déroulée par une étude des services de l'AD et une vague de ping pointant le domaine et le contrôleur de domaine principal(DC1) depuis les différentes machines du domaine par IP dans un premier temps.
 
+Aucun services inactif, tout les voyants sont verts.
 S'étant rendu compte que le DC1 répondait correctement mais que le domaine répondait par le biais du deuxième contrôleur de domaine(DC2) et qu'en pingant avec le FQDN du DC1, une autre IP répondait, la piste du DNS était sérieuse.
 
 ## Résolution de la panne
