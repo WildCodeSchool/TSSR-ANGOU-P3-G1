@@ -632,7 +632,8 @@ openssl req –new –newkey rsa:2048 –days 730 –nodes –x509 –keyout glp
 d) Renseigner les champs du certificat  (c’est surtout le common name qui est important, saisir l'URL du serveur GLPI à partir duquel les postes clients accéderont) :
 
 e) Déplacer la clef et le certificat dans les répertoires suivants :
-mv /etc/ssl/glpi.crt /etc/ssl/certs
+mv /etc/ssl/glpi.crt /etc/ssl/certs         
+
 mv /etc/ssl/glpi.key /etc/ssl/private
 
 f) Renseigner le fichier glpi-conf de cette nouvelle configuration :
