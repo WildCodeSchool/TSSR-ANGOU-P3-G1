@@ -20,7 +20,7 @@ _**Début de Sprint 8**_
 
 ![DEBUT_SPRINT8.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/DEBUT_SPRINT8.png)
 
-_**Fin de Sprint 7**_  
+_**Fin de Sprint 8**_  
 
 ![FIN_SPRINT8.png](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/FIN_SPRINT8.png)
 
