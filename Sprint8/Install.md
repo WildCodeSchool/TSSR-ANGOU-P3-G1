@@ -31,7 +31,8 @@ Après avoir ajouté le Rôle WSUS il est nécessaire de faire une configuration
 
 ![WSUS](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/wsus9.png)
 
-Dans le gestionnaire "Update Services", ajouter deux goupes : Clients Windows / Serveurs Windows en lien avec des OU dans l'Active Directory du DC (Via GPO)
+Dans le gestionnaire "Update Services", ajouter deux goupes : Clients Windows / Serveurs Windows en lien avec des OU dans l'Active Directory du DC (Via GPO) (voir tuto https://www.it-connect.fr/chapitres/lier-les-machines-du-domaine-active-directory-serveur-wsus/)
+
 
 ![WSUS](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/wsus10.png)
 
