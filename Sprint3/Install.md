@@ -618,7 +618,41 @@ Copie d'écran d'un ticket créer par un utilisateur de l'AD dont l'acronyme est
 ![GLPI](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/Sprint3/images/ticketing.png)
 
 
-### E) Les Tutos et ressources internet sur GLPI
+### E) Utilisation d'un certificat SSL pour se connecter a l'interface web de GLPI
+
+a) Installation du paquet suivant côté serveur :
+apt-get install libio-socket-ssl-perl
+
+b) Se placer dans le répertoire /etc/ssl :
+cd /etc/ssl
+
+c) Création d'un certificat autosigné (suffisant pour l'utilisation sur un LAN)
+openssl req –new –newkey rsa:2048 –days 730 –nodes –x509 –keyout glpi.key –out glpi.crt
+
+d) Renseigner les champs du certificat  (c’est surtout le common name qui est important, saisir l'URL du serveur GLPI à partir duquel les postes clients accéderont) :
+
+e) Déplacer la clef et le certificat dans les répertoires suivants :
+mv /etc/ssl/glpi.crt /etc/ssl/certs
+mv /etc/ssl/glpi.key /etc/ssl/private
+
+f) Renseigner le fichier glpi-conf de cette nouvelle configuration :
+nano /etc/apache2/sites-enabled/glpi-ssl.conf
+
+Modifier les lignes suivantes pour y mettre le nom du nouveau certificat et de sa clef :
+Contenu du glpi-ssl.conf :
+
+SSLCertificateFile /etc/ssl/certs/glpi.crt
+SSLCertificateKeyFile /etc/ssl/private/glpi.key
+
+g) Redémarrer le service apache
+service apache2 restart
+
+Faire un essai de connexion sur https://@IP du serveur. Le navigateur devrait indiquer qu’il ne reconnait pas le certificat car celui-ci est auto signé et ne provient pas d’une autorité de certification (CA) reconnue.Ce message n'est pas un erreur.
+
+![GLPI](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/Sprint3/images/https.png)
+
+
+### F) Les Tutos et ressources internet sur GLPI
 
 https://forum.glpi-project.org/viewtopic.php?id=163985
 
