@@ -22,9 +22,14 @@ Après avoir ajouté le Rôle WSUS à un Windows server 2022 sur une VM dédiée
 
 ![WSUS](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/wsus9.png)
 
-Dans le gestionnaire "Update Services", ajouter deux goupes : Clients Windows / Serveurs Windows
+Dans le gestionnaire "Update Services", ajouter deux goupes : Clients Windows / Serveurs Windows en lien avec des OU dans l'Active Directory du DC (Via GPO)
 
 ![WSUS](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/wsus10.png)
+
+Dans le panel d'Options, choisir Automatic Approvals puis cocher l'options ci-dessous pour déployer automatiquement les mises à jours critiques et de sécurité
+
+![WSUS](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/wsus11.png)
+
 
 ## 2) Rôles FSMO - Mettre en place les rôles sur 3 DC
 
