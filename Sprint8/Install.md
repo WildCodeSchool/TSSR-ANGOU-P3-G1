@@ -2,7 +2,16 @@
 
 ## 1) WSUS - Mettre en place un serveur de mise a jours Windows
 
-Après avoir ajouté le Rôle WSUS à un Windows server 2022 sur une VM dédiée, il est necessaire de faire une configuration post déploiement :
+Ajouter le Rôle WSUS à un Windows server 2022 sur une VM dédiée
+
+![WSUS](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/wsus0-1.png)
+
+![WSUS](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/wsus0-2.png)
+
+
+![WSUS](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/wsus0-3.png)
+
+Après avoir ajouté le Rôle WSUS il est nécessaire de faire une configuration post déploiement :
 
 ![WSUS](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G1/blob/main/SCREENS-PAR-SPRINT/SCREENS-SPRINT8/wsus1.png)
 
