@@ -13,7 +13,7 @@
 | 1150 (GUI) | G1-Win10Pro-03 | LAP-PAR-DELL-22 | PC Client Windows | | Non Fait 
 | 1151 (GUI) | G1-Winserver2022-FLSRV-GUI | SRV-WIN-FLS-01 | Serveur Windows FileSystem |Terminé|Non Fait
 | 1152 (CLI) | G1-Deb12-CLI-Backup | Debian | Serveur Windows FileSystem Backup | Non Fait | Non Fait
-| 1153 (CLI) | G1-Deb12-CLI-Zabbix-GrayLog | Debian | Serveur Debian Zabbix/Graylog |
+| 1153 (CLI) | G1-Deb12-CLI-Zabbix-GrayLog | Debian | Serveur Debian Zabbix/Graylog | | Non Fait
 | 1154 (CLI) | G1-Deb12-CLI-WebBackEnd | Debian | Serveur Debian Web BackEnd | Non Fait | Non Fait
 | 1155 (CLI) | G1-Deb12-CLI-Passbolt | SRV-LIN-PASS-01 | Serveur Debian PassBolt |  | Non Fait
 | 1156 (GUI) | G1-WinServer2022-GUI-WSUS | SRV-WIN-FLS-01 | Serveur Windows WSUS | | Non Fait
