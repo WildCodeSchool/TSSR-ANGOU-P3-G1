@@ -21,8 +21,8 @@
 | 1151 (GUI) | G1-Winserver2022-FLSRV-GUI | SRV-WIN-FLS-01 | VM |Windows Server 2022 GUI |Storage |VMBR525|172.18.1.102/24| 1 Disque de 32Go et 2 disques RAID1 de 20Go|4Go |2 coeurs
 | 1152 (CLI) | G1-Deb12-CLI-Backup | Debian |VM | Serveur Debian 12 | Fileserver storage Backup | VMBR525|172.18.1.106/24| 1 Disque de 32go et 2 disques RAID 1 en LVM de 20Go|4Go |1 coeurs
 | 1153 (CLI) | G1-Deb12-CLI-Zabbix-GrayLog | Debian | VM | Serveur Debian 12 | Zabbix/Graylog | VMBR525|172.18.107/24| 1 Disque de 8Go|2Go |2 coeurs
-| 1154 (CLI) | G1-Deb12-CLI-WebBackEnd | Debian | Serveur Debian Web BackEnd | 
-| 1155 (CLI) | G1-Deb12-CLI-Passbolt | SRV-LIN-PASS-01 | Serveur Debian PassBolt | 
+| 1154 (CLI) | G1-Deb12-CLI-WebBackEnd | VM | Serveur Debian 12 | Web BackEnd | VMBR525 | 172.18.108/24| 1 Disque de 8Go|2Go |2 coeurs
+| 1155 (CLI) | G1-Deb12-CLI-Passbolt | SRV-LIN-PASS-01 | Serveur Debian 12 |PassBolt | VMBR525 | 172.18.109/24| 1 Disque de 8Go|2Go |2 coeurs
 | 1156 (GUI) | G1-WinServer2022-GUI-WSUS | SRV-WIN-FLS-01 | Serveur Windows WSUS |
 | 1157 (CLI) | G1-Deb12-CLI-Freepbx | Debian | Serveur Debian Freepbx | 
 | 1158 (CLI) | G1-Deb12-CLI-Guacamole | Debian | Serveur Debian Bastion |
