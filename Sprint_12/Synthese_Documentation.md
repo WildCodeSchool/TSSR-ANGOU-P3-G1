@@ -8,7 +8,7 @@
 | 1145 (GUI) | G1-Win10-Pro-02 | LAP-PAR-DELL-21 | PC Client Windows | Pas de doc a faire | / 
 | 1146 (CLI) | G1-Deb12-MAIL-CLI | SRV-LIN-MAIL-01 | Serveur Debian Mail |Terminé|Non fait
 | 1147 (GUI) | G1-CLONEDC01 | Clone DC1 | / |Pas de doc a faire
-| 1148 (CLI) | G1-pfsense-CLI | pfSense | FireWall | Terminé |Terminé
+| 1148 (CLI) | G1-pfsense-CLI | pfSense | FireWall | Terminé | Non fait
 | 1149 (CLI) | G1-RouteurVYos | Routeur Vyos | Routeur | Terminé |
 | 1150 (GUI) | G1-Win10Pro-03 | LAP-PAR-DELL-22 | PC Client Windows |
 | 1151 (GUI) | G1-Winserver2022-FLSRV-GUI | SRV-WIN-FLS-01 | Serveur Windows FileSystem |Terminé|Non fait
