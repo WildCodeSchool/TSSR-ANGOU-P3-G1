@@ -15,12 +15,12 @@
 | 1145 (GUI) | G1-Win10-Pro-02 | LAP-PAR-DELL-21 | VM | Windows 10 Pro | Machine cliente | VMBR500G1|192.168.1.X/24 (DHCP)| 1 Disque de 50Go|2Go |2 coeurs 
 | 1146 (CLI) | G1-Deb12-MAIL-CLI | SRV-LIN-MAIL-01 | VM | Serveur Debian 12 |Serveur Mail Iredmail | VMBR525|172.18.1.115/24| 1 Disque de 50Go|4Go |2 coeurs 
 | 1147 (GUI) | G1-CLONEDC01 | Clone 1142 |  |
-| 1148 (CLI) | G1-pfsense-CLI | pfSense | FireWall | Serveur Debian 12 | VMBR525|172.18.255.254/16| 1 Disque de 8Go|2Go |2 coeurs 
-| 1149 (CLI) | G1-RouteurVYos | Vyos | Routeur | Serveur Debian 12 | VMBR525|172.18.0.100/16| 1 Disque de 15Go|2Go |1 coeurs
+| 1148 (CLI) | G1-pfsense-CLI | pfSense | VM | Serveur Debian 12 | FireWall | VMBR525|172.18.255.254/16| 1 Disque de 8Go|2Go |2 coeurs 
+| 1149 (CLI) | G1-RouteurVYos | Vyos | VM | Serveur Debian 12 | Routeur | VMBR525|172.18.0.100/16| 1 Disque de 15Go|2Go |1 coeurs
 | 1150 (GUI) | G1-Win10Pro-03 | LAP-PAR-DELL-22 | VM |Windows 10 Pro | Machine cliente | VMBR500G1|192.168.1.X/24 (DHCP)| 1 Disque de 50Go|2Go |2 coeurs
 | 1151 (GUI) | G1-Winserver2022-FLSRV-GUI | SRV-WIN-FLS-01 | VM |Windows Server 2022 GUI |Storage |VMBR525|172.18.1.102/24| 1 Disque de 32Go et 2 disques RAID1 de 20Go|4Go |2 coeurs
-| 1152 (CLI) | G1-Deb12-CLI-Backup | Debian | Serveur Windows FileSystem Backup | 
-| 1153 (CLI) | G1-Deb12-CLI-Zabbix-GrayLog | Debian | Serveur Debian Zabbix/Graylog |
+| 1152 (CLI) | G1-Deb12-CLI-Backup | Debian |VM | Serveur Debian 12 | Fileserver storage Backup | VMBR525|172.18.1.106/24| 1 Disque de 32go et 2 disques RAID 1 en LVM de 20Go|4Go |1 coeurs
+| 1153 (CLI) | G1-Deb12-CLI-Zabbix-GrayLog | Debian | VM | Serveur Debian 12 | Zabbix/Graylog | VMBR525|172.18.107/24| 1 Disque de 8Go|2Go |2 coeurs
 | 1154 (CLI) | G1-Deb12-CLI-WebBackEnd | Debian | Serveur Debian Web BackEnd | 
 | 1155 (CLI) | G1-Deb12-CLI-Passbolt | SRV-LIN-PASS-01 | Serveur Debian PassBolt | 
 | 1156 (GUI) | G1-WinServer2022-GUI-WSUS | SRV-WIN-FLS-01 | Serveur Windows WSUS |
