@@ -19,5 +19,5 @@
 | 1156 (GUI) | G1-WinServer2022-GUI-WSUS | SRV-WIN-FLS-01 | Serveur Windows WSUS | | Non Fait
 | 1157 (CLI) | G1-Deb12-CLI-Freepbx | Debian | Serveur Debian Freepbx | Terminé | Non Fait
 | 1158 (CLI) | G1-Deb12-CLI-Guacamole | Debian | Serveur Debian Bastion | Non Fait | Non Fait
-| 1160 (GUI) | G1-KaliLinux | Debian |  Non Fait  | Non fait
+| 1160 (GUI) | G1-KaliLinux | Debian | environnement test de vulnérabilité | Non Fait  | Non fait
 
