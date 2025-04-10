@@ -23,7 +23,7 @@
 | 1153 (CLI) | G1-Deb12-CLI-Zabbix-GrayLog | Debian | VM | Serveur Debian 12 | Zabbix/Graylog | VMBR525|172.18.107/24| 1 Disque de 8Go|2Go |2 coeurs
 | 1154 (CLI) | G1-Deb12-CLI-WebBackEnd | Debian | VM | Serveur Debian 12 | Web BackEnd | VMBR525 | 172.18.108/24| 1 Disque de 8Go|2Go |2 coeurs
 | 1155 (CLI) | G1-Deb12-CLI-Passbolt | SRV-LIN-PASS-01 | VM |Serveur Debian 12 |PassBolt | VMBR525 | 172.18.109/24| 1 Disque de 8Go|2Go |2 coeurs
-| 1156 (GUI) | G1-WinServer2022-GUI-WSUS | SRV-WIN-FLS-01 | VM |Windows Server 2022 GUI | WSUS | VMBR525 | 172.18.10/24| 1 Disque de 8Go|2Go |2 coeurs
-| 1157 (CLI) | G1-Deb12-CLI-Freepbx | Debian | VM | Serveur Debian 12 | VOIP Freepbx | VMBR525 | 172.18.10/24| 1 Disque de 8Go|2Go |2 coeurs
-| 1158 (CLI) | G1-Deb12-CLI-Guacamole | Debian | VM |Serveur Debian 12 | Bastion Guacamole| VMBR525 | 172.18.10/24| 1 Disque de 8Go|2Go |2 coeurs
-| 1160 (GUI) | G1-KaliLinux | Debian |  
+| 1156 (GUI) | G1-WinServer2022-GUI-WSUS | SRV-WIN-WSUS-01 | VM |Windows Server 2022 GUI | WSUS | VMBR525 | 172.18.111/24| 1 Disque de 32Go|4Go |2 coeurs
+| 1157 (CLI) | G1-Deb12-CLI-Freepbx | Debian | VM | Serveur Debian 12 | VOIP Freepbx | VMBR525 | 172.18.112/24| 1 Disque de 32Go|2Go |1 coeur
+| 1158 (CLI) | G1-Deb12-CLI-Guacamole | Debian | VM |Serveur Debian 12 | Bastion Guacamole| VMBR525 | 172.18.113/24| 1 Disque de 32Go|2Go |1 coeur
+| 1160 (GUI) | G1-KaliLinux | Debian |  VM | Serveur Debian 12 | Kali Linux | VMBR525 | 172.18.120/24| 1 Disque de 32Go|4Go |4 coeurs
