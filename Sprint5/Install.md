@@ -154,10 +154,7 @@ Accéder à la web interface depuis un client sur le même réseau :
 http://IP_ADDRESS/bareos-webui
 ```
 
-1. **Emplacement de la sauvegarde sur un disque différents de celui des données d'origine**
-
-2. **Mettre en place une planification de sauvegarde (script, AT, GPO, logiciel, etc.)**
-
+**Mise en place d'une sauvegarde automatique des dossiers et fichiers utilisateur :**  
 
 
 ## 4) MOT DE PASSE ADMINISTRATEUR LOCAL - Mise en place de LAPS
